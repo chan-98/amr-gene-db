@@ -1,0 +1,6 @@
+# Stats and log files
+*.tsv
+*.log
+# PyCache
+gene_retriever/__pycache__
+gene_retriever/*/__pycache__

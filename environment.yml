@@ -1,0 +1,9 @@
+name: amr_db
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - pandas==2.1.4
+  - biopython==1.83
+  - ncbi-datasets-cli==18.8.0
+  - blast==2.17.0
